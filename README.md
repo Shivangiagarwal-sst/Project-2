@@ -1,1 +1,1 @@
-[![Website Preview](E-Commerce.jpg)]
+![Website Preview](E-Commerce.jpg)
